@@ -1,6 +1,6 @@
 ############################################################
 #                                                          #
-#  Universidade Federal do Pampa                           #
+#                        #
 #                                                          #
 #  Ajustamento de Observações Goedésicas                   #
 #                                                          #
