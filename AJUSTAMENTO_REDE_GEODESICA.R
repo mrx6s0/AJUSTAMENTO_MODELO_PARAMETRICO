@@ -1,12 +1,4 @@
-############################################################
-#                                                          #
-#  Universidade Federal do Pampa                           #
-#                                                          #
-#  Ajustamento de Observações Goedésicas                   #
-#                                                          #
-#  Prova Prática II sem/2018                               #
-#                                                          #
-############################################################
+###############
 
 ## Organização dos dados 
 
