@@ -1,0 +1,31 @@
+Em função do script desenvolvido e os resultados obtidos, cinco questões sobre o levamento foram elaboradas pela empresa. 
+
+
+1) Utilizando-se a matriz de pesos conforme a equação ilustrada (equação dos pesos de Schimidtz) melhorou o resultado do
+ ajustamento, comparando com a matriz de pesos unitária (todas medidas tem mesmo peso)?
+
+ Não foi satisfatório pois foi rejeitada no teste Qui-Quadrado de Pearson.
+ 
+
+
+2) Quais foram o pior e melhor desníveis entre os medidos?
+
+ Pelos resultados encontrados na Matriz Variância-Covariância dos valores observados ajustados (MVC_l_ajustado), todos desníveis encontram-se com o mesmo valor, desse modo, não há como se comparar. 
+
+
+
+3) Existiu covariância entre as medidas? Quais?
+
+ Sim, houve correlação entre todas as medidas, excepto BA e MC, que apresentaram correlação igual a zero.
+
+
+
+4) É necessário/recomendado refazer alguma das medidas dos desníveis?
+
+  É necessário refazer a medida 3  pois esta teve a hipótese nula H0 rejeitada no teste de Data Snooping de Baarda. 
+
+
+
+5) Quais foram os desvios padrão das incógnitas ajustadas?
+
+  O desvio padrão das incógnitas ajustadas resultou em 0.50; para ambas incógnitas,  A, B e C. 
